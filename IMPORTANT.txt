@@ -1,0 +1,2 @@
+->A note regarding the course is placed in every folder
+->for labs,u may also refer to:https://github.com/JustADude29?tab=repositories (2021-25 batch) or https://github.com/zeus-iitg (2018-22 batch) or https://github.com/vishishtpriyadarshi?tab=repositories(for maths courses)
