@@ -1,0 +1,9 @@
+.Easy course
+.Study from lecture notes of CS people(some parts are missing in the MnC coursehub)
+.refer to CS github link
+.Koushik notes help post midsem as there are no proper lecture notes
+.attend the last lectures properly as there are no proper references available
+(last lectures means poisson distribution,ordered distributions etc)
+.https://github.com/ktk53x/Course_Material/tree/master/MA225%20Lectures
+.https://drive.google.com/drive/u/0/folders/1MHwWZ7PoKPP3QDXdUhpOZfLOy82BmXNN
+.lecture slides+explanation=lecture notes(both cover the same points)

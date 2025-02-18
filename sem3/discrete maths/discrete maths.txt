@@ -1,0 +1,16 @@
+H Ramesh
+he is strict with attendance.He will really make you cry if you don't attend his classes.
+Don't put proxies even if your attendance is low.
+Understanding in the class and interacting with him sitting in the front rows helps a lot.
+Don't try to take extra time in the exam-he will cut whatever you are writing
+
+Sets
+there are some problems in the course hub link.solve them.
+He didn't follow any book for sets.
+
+Logic
+Read Huth and solve those problems in it which have solutions in the solution book
+
+Combinatorics and Graph theory
+whoever be the prof,they will most likely give questions from 'Walk through Combinatorics'.
+(based on the question papers of CSE,MnC and DSAI peeps)
