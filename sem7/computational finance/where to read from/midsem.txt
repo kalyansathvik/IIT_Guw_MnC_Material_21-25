@@ -1,0 +1,12 @@
+Black Scoles PDE Derivation: section 2.2.2 page 26,27
+converting BS eqn into Heat eqn: section 2.6.1
+Transformation -1 : equation 2.74
+Transformation - 2: equation 2.76
+Remark: Both transformations combined : equation 2.78
+Remarks 1,2,3: page 70 bullet points
+r, delta, sigma function of t: page 71, 3.
+page 6 of book: section 2.2.5 page 31
+page 10 : section 2.6.2, page 71
+page 12 to 14 green fn: section 2.6.3, page 74
+
+Sydel lo leni ee topics ee book lo vunnayi

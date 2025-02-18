@@ -1,0 +1,6 @@
+Prof: Shreemayee Bora
+->Attend her classes regularly. She teaches well and does a recap before she starts the class.
+->Unlikely that she will fail someone due to attendance because her reason for taking attendance is to make people get some marks from whatever they listen in the class
+->She failed 13 ppl(fail not backlog) apparently. So she will follow her pass marks criteria properly.
+->If you memorize the helper functions and just write them in lab exam instead of using it, she will not give marks even for the helper functions.
+->If you write something conceptually wrong in the answer sheet, she will reduce marks( suppose you write 1st half of an answer correct for which you will get 4 marks and wrote something conceptually wrong in the 2nd half, you will get only 3 marks)

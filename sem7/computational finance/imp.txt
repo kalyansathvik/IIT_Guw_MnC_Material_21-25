@@ -1,0 +1,5 @@
+Prof: Natesan
+->mug up everything correctly, you will get full marks
+->don't worry about lab submissions, he will not give marks for that anyway
+->lab exam questions were on FTCS, BTCS, Crank-Nicolson only in the first labs
+->Don't waste time on term paper

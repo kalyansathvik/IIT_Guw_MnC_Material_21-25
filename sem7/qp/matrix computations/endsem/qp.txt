@@ -1,0 +1,12 @@
+Shift and invert proof
+
+Range and null space proof of svd
+
+QR of symmetric tridiagonal in n and n² 
+
+R in A+b(A pseudo inverse b) is least norm
+
+Describe one iteration of Francis qr
+
+Krylov matrix?how Francis qr equivalent to shifted qr?
+

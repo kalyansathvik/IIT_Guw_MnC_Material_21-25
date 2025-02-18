@@ -1,0 +1,39 @@
+function [U, S, t] = CrankNicolson(N, M, x, t, lambda, K, T, sigma, q, q_delta, g1, g2, phi)
+    U = zeros(M + 1, N + 1);
+    U(1, :) = phi(x);
+    U(:, 1) = g1(x(1), t);
+    U(:, end) = g2(x(end), t);
+    
+    b = zeros(N - 1, 1);
+    
+    A = tridiagonal_matrix(N - 1, 1 + 2*lambda, -lambda, -lambda);    
+    L = tridiagonal_matrix(N - 1, 1 - 2*lambda, lambda, lambda);
+    
+    for j = 2 : M + 1
+        b(1) = lambda * (g1(x(1), t(j - 1)) + g1(x(1), t(j))); 
+        b(end) = lambda * (g2(x(end), t(j - 1)) + g2(x(end), t(j)));
+        
+        u = A \ (L * (U(j - 1, 2 : end - 1)') + b);
+        U(j, 2 : end - 1) = u;
+    end
+    
+    [U, S, t] = transform_pde(U, x, t, K, T, sigma, q, q_delta);
+end
+
+
+function [V, x, t] = transform_pde(y, x, tau, K, T, sigma, q, q_delta)
+    
+    V = zeros(size(y));
+    for i = 1 : length(tau)
+        for j = 1 : length(x)
+            V(i, j) = K * exp(-0.5 * (q_delta - 1) * x(j) - (0.25 * ((q_delta - 1) ^ 2) + q) * tau(i)) * y(i, j);
+        end
+    end
+
+    x = K * exp(x);
+    t = T - 2 * tau / (sigma ^ 2);
+end
+
+function A = tridiagonal_matrix(N, a, b, c)
+     A = diag(a * ones(1, N)) + diag(b * ones(1, N - 1), 1) + diag(c * ones(1, N - 1), -1);
+end
