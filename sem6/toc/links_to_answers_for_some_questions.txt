@@ -1,0 +1,7 @@
+https://math.stackexchange.com/questions/1539658/automata-prove-that-if-l-is-regular-than-halfl-is-regular-too
+
+https://cs.stackexchange.com/questions/152398/how-to-prove-that-halfl-xxy-in-l-x-y-is-regular-language
+
+https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions/tree/master?tab=readme-ov-file
+
+https://github.com/gaurangsaini/sipser-computation-3rd-solutions/blob/master/Chapter%200/2.pdf

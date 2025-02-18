@@ -1,0 +1,5 @@
+Fibonacci heap analysis:
+https://www.youtube.com/watch?v=RCCUrmklzjg&t=969s
+
+Fibonacci heap operations:
+https://www.youtube.com/watch?v=0vsX3ZQFREM&list=PL9xmBV_5YoZNkwWDXcSiZjMgacw2P0U2j

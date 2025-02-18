@@ -1,0 +1,13 @@
+Just read everything that he has taught
+He doesn't teach few things clearly(I think wantedly) like KMP algorithm, convex hull merge, convex hull intersection and asks them in the exams for sure
+Attending classes help(or have a friend who attends classes)
+
+
+Bin packing:
+https://sites.cs.ucsb.edu/~suri/cs130b/BinPacking
+
+Merging convex hulls:
+https://algorithmtutor.com/Computational-Geometry/An-efficient-way-of-merging-two-convex-hull/
+
+no proper resource for intersection:
+https://www-cgrl.cs.mcgill.ca/~godfried/teaching/cg-projects/97/Plante/CompGeomProject-EPlante/algorithm.html
