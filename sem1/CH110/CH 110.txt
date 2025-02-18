@@ -1,0 +1,4 @@
+CH110
+EXP3-PH Titration
+Acetic acid(in beaker) vs NaOH(in burette)
+0.5ml was added when it was known from 1st reading that neutralization point lies between 13ml and 14ml
